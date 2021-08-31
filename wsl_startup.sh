@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Upgrades and updates the terminal and updates the terminal.
+# Upgrades and updates Ubuntu
 GREEN='\033[0;32m'
 NC='\033[0m' # No Color
 
